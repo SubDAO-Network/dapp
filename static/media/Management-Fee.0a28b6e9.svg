@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Management Fee</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-419.000000, -102.000000)">
+            <g id="Management-Fee" transform="translate(419.000000, 102.000000)">
+                <rect id="rectangle" x="0" y="0" width="72" height="72"></rect>
+                <g id="group" transform="translate(9.000000, 13.000000)" fill="#45BEFF">
+                    <rect id="rectangle" x="8" y="0" width="48" height="12" rx="4"></rect>
+                    <rect id="rectangle" x="0" y="17" width="48" height="12" rx="4"></rect>
+                    <rect id="rectangle" x="0" y="34" width="48" height="12" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

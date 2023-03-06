@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ETH</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-1452.000000, -762.000000)" fill-rule="nonzero">
+            <g id="ETH" transform="translate(1452.000000, 762.000000)">
+                <circle id="Oval" fill-opacity="0.2" fill="#FFFFFF" cx="24" cy="24" r="24"></circle>
+                <g id="Ethereum_logo" transform="translate(15.000000, 10.000000)" fill="#010101">
+                    <polygon id="path3078" opacity="0.60000598" points="8.59407735 10.3535435 0 14.2597732 8.59407735 19.339708 17.1881547 14.2597732"></polygon>
+                    <polygon id="path3094" opacity="0.44999701" points="6.87953835e-05 14.2597026 8.59414615 19.3396374 8.59414615 10.3534728 8.59414615 0"></polygon>
+                    <polygon id="path3110" opacity="0.80000299" points="8.59407735 0 8.59407735 10.3534728 8.59407735 19.3396374 17.1881547 14.2597026"></polygon>
+                    <polygon id="path3126" opacity="0.44999701" points="6.87953835e-05 15.8893629 8.59414615 27.999907 8.59414615 20.9667412"></polygon>
+                    <polygon id="path3142" opacity="0.80000299" points="8.59407735 20.9668341 8.59407735 28 17.1932679 15.8894559"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

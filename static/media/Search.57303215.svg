@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-940.000000, -762.000000)">
+            <g id="Search" transform="translate(940.000000, 762.000000)">
+                <rect id="Rectangle-Copy-9" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(4.000000, 4.000000)">
+                    <path d="M20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 Z M20,4 C28.836556,4 36,11.163444 36,20 C36,28.836556 28.836556,36 20,36 C11.163444,36 4,28.836556 4,20 C4,11.163444 11.163444,4 20,4 Z" id="Oval" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <line x1="33.5343838" y1="33.5343838" x2="38" y2="38" id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

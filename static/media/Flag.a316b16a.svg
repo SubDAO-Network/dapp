@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-1324.000000, -634.000000)">
+            <g id="Flag" transform="translate(1324.000000, 634.000000)">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(6.000000, 6.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle" x="2" y="2" width="24" height="20" rx="2"></rect>
+                    <path d="M19,8 L34.0459341,8 C35.1505036,8 36.0459341,8.8954305 36.0459341,10 C36.0459341,10.2544389 35.9973837,10.5065408 35.9028875,10.7427814 L33.2971125,17.2572186 C33.1063837,17.7340407 33.1063837,18.2659593 33.2971125,18.7427814 L35.9028875,25.2572186 C36.3131143,26.2827857 35.8142825,27.4467266 34.7887154,27.8569534 C34.5524749,27.9514496 34.3003729,28 34.0459341,28 L19,28 C17.8954305,28 17,27.1045695 17,26 L17,10 C17,8.8954305 17.8954305,8 19,8 Z" id="Rectangle"></path>
+                    <rect id="Rectangle" x="0" y="0" width="6" height="36" rx="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

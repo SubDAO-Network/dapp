@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>clear</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Uniswap--Copy-3" transform="translate(-3035.000000, -139.000000)">
+            <g id="Group-3" transform="translate(2699.000000, 60.000000)">
+                <g id="clear" transform="translate(336.000000, 79.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M7.35908938,7.62937261 L16.6409106,7.62937261 C17.1931954,7.62937261 17.6409106,8.07708786 17.6409106,8.62937261 L17.6409106,11.6585945 L17.6409106,11.6585945 L6.35908938,11.6585945 L6.35908938,8.62937261 C6.35908938,8.07708786 6.80680463,7.62937261 7.35908938,7.62937261 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2"></path>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" x="6.35908938" y="11.6585945" width="11.2818212" height="7.25259937"></rect>
+                    <line x1="12" y1="7.62937261" x2="12" y2="3.65411377" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+                    <line x1="9.92791748" y1="18.8571211" x2="9.92791748" y2="14.8573339" id="Path-" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+                    <line x1="14.0720825" y1="18.8571211" x2="14.0720825" y2="14.8573339" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

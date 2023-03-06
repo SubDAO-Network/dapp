@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wallet-Connect-Copy-4" transform="translate(-606.000000, -457.000000)">
+            <g id="Group-8" transform="translate(358.000000, 417.000000)">
+                <g id="Group-2" transform="translate(248.000000, 40.000000)">
+                    <rect id="Rectangle" fill="#326CFF" opacity="0.280000001" x="0" y="0" width="64" height="64" rx="10"></rect>
+                    <g id="Group" transform="translate(12.000000, 12.000000)" stroke="#45BEFF" stroke-width="4">
+                        <circle id="Oval" cx="20" cy="20" r="20"></circle>
+                        <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="13.9809589 27.6169469 21 21 21 12"></polyline>
+                        <line x1="20" y1="1" x2="20" y2="4" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="20" y1="36" x2="20" y2="39" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="1" y1="20" x2="4" y2="20" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="36" y1="20" x2="39" y2="20" id="Path" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

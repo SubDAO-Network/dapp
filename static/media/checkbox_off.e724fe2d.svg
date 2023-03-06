@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Multiple-check02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.08">
+        <g transform="translate(2.000000, 2.000000)" fill="#FFFFFF" id="Rectangle">
+            <rect x="0" y="0" width="20" height="20" rx="4"></rect>
+            <path d="M16,0 C18.209139,0 20,1.790861 20,4 L20,16 C20,18.209139 18.209139,20 16,20 L4,20 C1.790861,20 0,18.209139 0,16 L0,4 C0,1.790861 1.790861,0 4,0 L16,0 Z M16,2 L4,2 C2.8954305,2 2,2.8954305 2,4 L2,16 C2,17.1045695 2.8954305,18 4,18 L16,18 C17.1045695,18 18,17.1045695 18,16 L18,4 C18,2.8954305 17.1045695,2 16,2 Z" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

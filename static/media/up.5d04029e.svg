@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-313.000000, -218.000000)">
+            <g transform="translate(69.000000, 212.000000)">
+                <g transform="translate(120.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(124.000000, 6.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M15,14.25 C15,14.6642136 14.6642136,15 14.25,15 L9.75,15 C9.33578644,15 9,14.6642136 9,14.25 C9,13.8357864 9.33578644,13.5 9.75,13.5 L13.5,13.5 L13.5,9.75 C13.5,9.33578644 13.8357864,9 14.25,9 C14.6642136,9 15,9.33578644 15,9.75 L15,14.25 L15,14.25 Z" id="Combined-Shape" fill="#A3A5B7" transform="translate(12.000000, 12.000000) scale(1, -1) rotate(-315.000000) translate(-12.000000, -12.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Share</title>
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-1068.000000, -634.000000)">
+            <g id="Share" transform="translate(1068.000000, 634.000000)">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(4.000000, 5.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="9" cy="19" r="9"></circle>
+                    <circle id="Oval-Copy-5" fill="#FFFFFF" cx="33.5" cy="6.5" r="6.5"></circle>
+                    <circle id="Oval-Copy-6" fill="#FFFFFF" cx="33.5" cy="31.5" r="6.5"></circle>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" points="33.5 6.5 9 19 33.5 31.5"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

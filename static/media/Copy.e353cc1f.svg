@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Copy</title>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-1196.000000, -634.000000)">
+            <g id="Copy" transform="translate(1196.000000, 634.000000)">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="Group" transform="translate(6.000000, 6.000000)" fill="#FFFFFF">
+                    <path d="M32.2857143,0 C34.3370576,-3.76825661e-16 36,1.66294236 36,3.71428571 L36,22.2857143 C36,24.3370576 34.3370576,26 32.2857143,26 L30,26 L30,12 C30,8.76160306 27.4344251,6.12242824 24.2249383,6.00413847 L24,6 L10,6 L10,3.71428571 C10,1.66294236 11.6629424,3.76825661e-16 13.7142857,0 L32.2857143,0 Z" id="Shap"></path>
+                    <rect id="Rectangle" x="0" y="10" width="26" height="26" rx="4"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

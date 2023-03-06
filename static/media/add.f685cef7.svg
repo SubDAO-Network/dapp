@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-add manager</title>
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-1452.000000, -378.000000)">
+            <g id="icon-add-manager" transform="translate(1452.000000, 378.000000)">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="group-">
+                    <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                    <g>
+                        <g transform="translate(28.000000, 30.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                            <line x1="-9.96210052e-13" y1="5" x2="9.87548794" y2="5" id="path"></line>
+                            <line x1="5" y1="0" x2="5" y2="10" id="path-"></line>
+                        </g>
+                        <g>
+                            <rect id="rangangle" x="0" y="0" width="48" height="48"></rect>
+                            <g transform="translate(12.000000, 12.000000)" stroke="#FFFFFF" stroke-linejoin="round" stroke-width="3">
+                                <path d="M16,18.4385999 C14.8193797,18.1517896 13.5878632,18 12.3217941,18 C7.35305067,18 2.91649036,20.3378689 0,24" id="path-" stroke-linecap="round"></path>
+                                <circle id="Oval-" cx="12" cy="8" r="8"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

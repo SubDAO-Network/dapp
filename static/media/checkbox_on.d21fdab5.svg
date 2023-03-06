@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="185.944811%" y1="164.839777%" x2="-1.84156%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#61E1FF" offset="0%"></stop>
+            <stop stop-color="#326CFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="20" height="20" rx="4"></rect>
+        <filter x="-170.0%" y="-130.0%" width="440.0%" height="440.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.278431373   0 0 0 0 0.419607843   0 0 0 0 0.976470588  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Multiple-check01" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(2.000000, 2.000000)">
+            <g id="Rectangle">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <path d="M12.2163884,7.3174688 C12.6244142,6.89417707 13.2859548,6.89417707 13.6939806,7.3174688 C14.0706199,7.70819963 14.0995921,8.32302494 13.7808974,8.74823185 L13.6939806,8.85034377 L10,12.6825312 C9.62336077,13.073262 9.03070897,13.1033182 8.62083704,12.7726999 L8.52240775,12.6825312 L6.30601937,10.3832187 C5.89799354,9.95992701 5.89799354,9.27363551 6.30601937,8.85034377 C6.68265861,8.45961294 7.2753104,8.42955672 7.68518234,8.76017512 L7.78361162,8.85034377 L9.26086918,10.3829873 L12.2163884,7.3174688 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-684.000000, -506.000000)">
+            <g id="icon-up" transform="translate(684.000000, 506.000000)">
+                <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                <g id="group" transform="translate(13.891541, 14.482871)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                    <polyline id="path" points="20.2169189 6.87996156 10.1084595 9.09470499e-13 10.1084595 19.0342584"></polyline>
+                    <polyline id="path" transform="translate(5.054230, 9.517129) scale(-1, 1) translate(-5.054230, -9.517129) " points="10.1084595 6.87996156 3.57644937e-15 -2.42028724e-17 1.04232508e-12 19.0342584"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

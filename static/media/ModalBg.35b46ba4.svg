@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="440px" height="357px" viewBox="0 0 440 357" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bg Copy</title>
+    <defs>
+        <polygon id="path-1" points="-7.87015923e-17 0 440 8.33564429e-13 440 357 -4.35103342e-13 357"></polygon>
+        <linearGradient x1="48.6495136%" y1="113.205959%" x2="50.9077412%" y2="42.4392222%" id="linearGradient-3">
+            <stop stop-color="#163A65" offset="0%"></stop>
+            <stop stop-color="#000F28" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.4969056%" y1="64.7199581%" x2="52.9201284%" y2="15.8777413%" id="linearGradient-4">
+            <stop stop-color="#163A65" offset="0%"></stop>
+            <stop stop-color="#041532" offset="100%"></stop>
+        </linearGradient>
+        <path d="M211.438541,-99.7289312 L315.537615,-43.5220302 C323.081777,-39.4486611 327.935852,-31.7160134 328.325124,-23.1512495 L339.616007,225.271047 L339.616007,225.271047 L290.520198,334.083563 C288.350625,338.892054 282.693786,341.031319 277.885295,338.861746 C275.188031,337.64475 273.207125,335.246357 272.521689,332.367731 L176.095065,-72.5956113 C172.972315,-85.7102386 181.072333,-98.8732336 194.18696,-101.995983 C200.020734,-103.385075 206.161719,-102.578081 211.438541,-99.7289312 Z" id="path-5"></path>
+        <linearGradient x1="46.1824234%" y1="54.8959413%" x2="62.6391373%" y2="40.2293653%" id="linearGradient-7">
+            <stop stop-color="#163A65" offset="0%"></stop>
+            <stop stop-color="#081425" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.2347382%" y1="64.7199581%" x2="52.5336097%" y2="20.6239666%" id="linearGradient-8">
+            <stop stop-color="#163A65" offset="0%"></stop>
+            <stop stop-color="#041735" offset="100%"></stop>
+        </linearGradient>
+        <path d="M140.248167,16.113451 L168.092863,-46.6298276 C173.323611,-58.416428 187.118898,-63.7309961 198.905498,-58.5002477 C204.887248,-55.8456207 209.480335,-50.8024426 211.565829,-44.5992912 L329.810892,307.112055 C334.480567,321.001664 327.006333,336.046937 313.116724,340.716612 C306.585701,342.912337 299.456653,342.481289 293.237765,339.514658 L198.839481,294.483325 C191.043795,290.764506 185.546159,283.483841 184.10339,274.967929 L140.248167,16.113451 L140.248167,16.113451 Z" id="path-9"></path>
+        <linearGradient x1="46.1824234%" y1="53.933709%" x2="82.4536623%" y2="38.2150966%" id="linearGradient-11">
+            <stop stop-color="#163A65" offset="0%"></stop>
+            <stop stop-color="#01102A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-563.000000, -22.000000)">
+            <g id="Bg-Copy" transform="translate(563.000000, 22.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#041735" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(-141.000000, -145.000000)" id="Path">
+                        <path d="M309.121773,117.054195 L334.572771,142.119103 L334.572771,142.119103 L352.16321,389.84589 L279.107569,292.616942 L274.814885,131.960025 C274.517423,120.827285 283.301152,111.561275 294.433892,111.263813 C299.913358,111.117404 305.216313,113.20798 309.121773,117.054195 Z" fill="url(#linearGradient-3)" transform="translate(312.820949, 235.898850) rotate(111.000000) translate(-312.820949, -235.898850) "></path>
+                        <g stroke-width="1" fill="none">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5" transform="translate(251.541399, 116.985594) rotate(83.000000) translate(-251.541399, -116.985594) "></use>
+                            </mask>
+                            <use id="Mask" fill="url(#linearGradient-4)" transform="translate(251.541399, 116.985594) rotate(83.000000) translate(-251.541399, -116.985594) " xlink:href="#path-5"></use>
+                            <polygon fill="url(#linearGradient-7)" mask="url(#mask-6)" transform="translate(252.587117, 89.919287) rotate(4.000000) translate(-252.587117, -89.919287) " points="530.736833 37.4154331 554.754138 -84.3463966 -25.0372998 89.9440251 -49.5799041 264.184972"></polygon>
+                        </g>
+                        <g stroke-width="1" fill="none" transform="translate(6.000000, 199.000000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9" transform="translate(245.009798, 132.496555) rotate(83.000000) translate(-245.009798, -132.496555) "></use>
+                            </mask>
+                            <use id="Mask" fill="url(#linearGradient-8)" transform="translate(245.009798, 132.496555) rotate(83.000000) translate(-245.009798, -132.496555) " xlink:href="#path-9"></use>
+                            <polygon fill="url(#linearGradient-11)" mask="url(#mask-10)" points="466 -2.08316278 407.384949 -31 55.3783495 74.5684908 -6 213"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

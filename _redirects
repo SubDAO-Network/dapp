@@ -1,0 +1,5 @@
+/v1/dao/*  https://v1.subdao.network/index.html 200
+/v1/*  https://v1.subdao.network/:splat 200
+/v2/dao/*  https://v2.subdao.network/index.html 200
+/v2/*  https://v2.subdao.network/:splat 200
+/* /index.html 200

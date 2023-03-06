@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Vote</title>
+    <defs>
+        <polygon id="path-1" points="60 60 60 -1.68771364e-15 1.8392494e-16 0 0 60"></polygon>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-419.000000, -288.000000)">
+            <g id="Vote" transform="translate(419.000000, 288.000000)">
+                <rect id="Rectanle" x="0" y="0" width="72" height="72"></rect>
+                <g id="group" transform="translate(4.000000, 1.000000)">
+                    <rect id="Rectanle" fill="#FFFFFF" opacity="0.5" x="0" y="50.0070342" width="64" height="10" rx="5"></rect>
+                    <g id="Rectanle" transform="translate(1.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mash"></g>
+                        <path d="M15.9878778,18.2156454 L48.0599787,18.2156454 C53.1630898,18.2156454 57.2999787,22.3525343 57.2999787,27.4556454 L57.2999787,44.7107512 C57.2999787,49.8138623 53.1630898,53.9507512 48.0599787,53.9507512 L15.9878778,53.9507512 C10.8847667,53.9507512 6.74787781,49.8138623 6.74787781,44.7107512 L6.74787781,27.4556454 C6.74787781,22.3525343 10.8847667,18.2156454 15.9878778,18.2156454 Z" id="path" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(32.023928, 36.083198) rotate(-49.000000) translate(-32.023928, -36.083198) "></path>
+                        <path d="M26.5223084,19.1119253 L37.5255481,19.1119253 C38.792584,19.1119253 39.8197196,20.1390609 39.8197196,21.4060968 C39.8197196,22.6731328 38.792584,23.7002684 37.5255481,23.7002684 L26.5223084,23.7002684 C25.2552725,23.7002684 24.2281369,22.6731328 24.2281369,21.4060968 C24.2281369,20.1390609 25.2552725,19.1119253 26.5223084,19.1119253 Z" id="path" fill="#4F5C71" mask="url(#mask-2)" transform="translate(32.023928, 21.406097) rotate(-49.000000) translate(-32.023928, -21.406097) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
